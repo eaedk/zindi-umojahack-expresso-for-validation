@@ -1,4 +1,5 @@
 # zindi-umojahack-expresso-for-validation
+
 ![UmojaHack Picture](https://drive.google.com/uc?export=view&id=1pj7SGuqinFBy0yXrHLx6Eqi5BIcXVZbX)
 
 
@@ -13,11 +14,10 @@ Expresso is an African telecommunications company that provides customers with a
 
 This solution will help Expresso to better serve their customers by understanding which customers are at risk of leaving.
 [CLICK HERE FOR MORE INFORMATION ...](https://zindi.africa/hackathons/umojahack-senegal-challenge-expresso-sur-la-prediction-dattrition-des-clients-churn/)
-
-
-
-
-
+\
+\
+\
+\
 ## <span style='color:green'> HOW TO EXECUTE THIS REPOSITORY ? </span>
 
 1. Go on  [UmojaHack page to download all CSV files of dataset]( https://zindi.africa/hackathons/umojahack-senegal-challenge-expresso-sur-la-prediction-dattrition-des-clients-churn/data ) and put files into folder **DATASET/CSV/** ;
