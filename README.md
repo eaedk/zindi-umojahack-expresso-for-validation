@@ -1,10 +1,14 @@
 # zindi-umojahack-expresso-for-validation
-This is a temporary repository for UmojaHack Expresso code validation
+This is a temporary repository of UmojaHack Expresso code for validation by Zindi.
 
-Go into the NOTEBOOKS folder and .....
+1. Go on  [UmojaHack page to download all CSV files of dataset]( https://zindi.africa/hackathons/umojahack-senegal-challenge-expresso-sur-la-prediction-dattrition-des-clients-churn/data ) and put files into folder **DATASET/CSV/** ;
+
+2. Go into folder **NOTEBOOKS/** and execute all cells of the notebook **_cat_starter_customer_churn.ipynb_** ;
+
+3. Go into folder **SUBMISSIONS/**, get the file **_##.csv_** and submit the created submission file to Zindi platform.
 
 ## 🌴<span style='color:green'> Repository structure (tree😎)</span>
-You must follow this structure when runing the notebook.
+
 
 |----DATASET  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- CSV  
@@ -17,5 +21,3 @@ You must follow this structure when runing the notebook.
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- << Submission_file_after_execution_of_notebook>>.csv  
 |\
 |---- Readme.md  
-|---- environment.yml\
-|---- requirements.txt  
