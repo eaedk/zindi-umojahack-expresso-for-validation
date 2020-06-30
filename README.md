@@ -2,7 +2,19 @@
 ![UmojaHack Picture](https://drive.google.com/uc?export=view&id=1pj7SGuqinFBy0yXrHLx6Eqi5BIcXVZbX)
 
 
-This is a temporary repository of UmojaHack Expresso code for validation by Zindi.
+**PS : This is a temporary repository of UmojaHack Expresso code for validation by Zindi.**
+
+## <span style='color:green'> Description</span>
+This is a private hackathon open to UmojaHack Senegal participants. If you are a university student in Ghana and would like to participate, contact Thierno Ibrahima Diop.
+
+Expresso is an African telecommunications company that provides customers with airtime and mobile data bundles. The objective of this challenge is to develop a machine learning model to predict the likelihood of each Expresso customer “churning,” i.e. becoming inactive and not making any transactions for 90 days.
+
+This solution will help Expresso to better serve their customers by understanding which customers are at risk of leaving.
+
+[CLICK HERE FOR MORE INFORMATION](https://zindi.africa/hackathons/umojahack-senegal-challenge-expresso-sur-la-prediction-dattrition-des-clients-churn/)
+
+
+## <span style='color:green'> HOW TO EXECUTE THIS REPOSITORY ? </span>
 
 1. Go on  [UmojaHack page to download all CSV files of dataset]( https://zindi.africa/hackathons/umojahack-senegal-challenge-expresso-sur-la-prediction-dattrition-des-clients-churn/data ) and put files into folder **DATASET/CSV/** ;
 
