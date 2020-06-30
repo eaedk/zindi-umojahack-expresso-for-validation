@@ -17,7 +17,7 @@ This solution will help Expresso to better serve their customers by understandin
 \
 \
 \
-\
+
 ## <span style='color:green'> HOW TO EXECUTE THIS REPOSITORY ? </span>
 
 1. Go on  [UmojaHack page to download all CSV files of dataset]( https://zindi.africa/hackathons/umojahack-senegal-challenge-expresso-sur-la-prediction-dattrition-des-clients-churn/data ) and put files into folder **DATASET/CSV/** ;
@@ -25,9 +25,9 @@ This solution will help Expresso to better serve their customers by understandin
 2. Go into folder **NOTEBOOKS/** and execute all cells of the notebook **_cat_starter_customer_churn.ipynb_** ;
 
 3. Go into folder **SUBMISSIONS/**, get the created submission file **_##.csv_** and submit the submission file to Zindi platform.
-
-
-
+\
+\
+\
 
 ## 🌴<span style='color:green'> Repository structure (tree😎)</span>
 
@@ -44,9 +44,9 @@ This solution will help Expresso to better serve their customers by understandin
 |\
 |---- .gitignore  \
 |---- Readme.md  
-
-
-
+\
+\
+\
 
 ## 🏆<span style='color:green'> Final Leaderbord </span>
 
@@ -55,8 +55,9 @@ This solution will help Expresso to better serve their customers by understandin
 
 [See the leaderboard](https://zindi.africa/hackathons/umojahack-senegal-challenge-expresso-sur-la-prediction-dattrition-des-clients-churn/leaderboard)
 
-
-
+\
+\
+\
 
 ## 💻<span style='color:green'> Author & Contributors </span>
 
@@ -69,9 +70,9 @@ This solution will help Expresso to better serve their customers by understandin
 | Cédric MANOUAN |[@Zeus😆](https://zindi.africa/users/I_am_Zeus_AI)        |[@dric2018](https://github.com/dric2018)  |
 
 </div>
-
-
-
+\
+\
+\
 
 ## 👨🏽‍🎓🚀💻<span style='color:green'> Acknowledgments </span>
 
@@ -80,9 +81,9 @@ This solution will help Expresso to better serve their customers by understandin
 
 [ **Dakar Institute of Technology - DIT** ]( https://dit.sn/ )
 </div>
-
-
-
+\
+\
+\
 
 ## 📜<span style='color:green'> Licence </span>
 
