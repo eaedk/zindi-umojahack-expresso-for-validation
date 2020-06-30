@@ -4,14 +4,18 @@
 
 **PS : This is a temporary repository of UmojaHack Expresso code for validation by Zindi.**
 
+
+
 ## <span style='color:green'> Description</span>
 This is a private hackathon open to UmojaHack Senegal participants. If you are a university student in Ghana and would like to participate, contact Thierno Ibrahima Diop.
 
 Expresso is an African telecommunications company that provides customers with airtime and mobile data bundles. The objective of this challenge is to develop a machine learning model to predict the likelihood of each Expresso customer “churning,” i.e. becoming inactive and not making any transactions for 90 days.
 
 This solution will help Expresso to better serve their customers by understanding which customers are at risk of leaving.
+[CLICK HERE FOR MORE INFORMATION ...](https://zindi.africa/hackathons/umojahack-senegal-challenge-expresso-sur-la-prediction-dattrition-des-clients-churn/)
 
-[CLICK HERE FOR MORE INFORMATION](https://zindi.africa/hackathons/umojahack-senegal-challenge-expresso-sur-la-prediction-dattrition-des-clients-churn/)
+
+
 
 
 ## <span style='color:green'> HOW TO EXECUTE THIS REPOSITORY ? </span>
@@ -21,6 +25,9 @@ This solution will help Expresso to better serve their customers by understandin
 2. Go into folder **NOTEBOOKS/** and execute all cells of the notebook **_cat_starter_customer_churn.ipynb_** ;
 
 3. Go into folder **SUBMISSIONS/**, get the created submission file **_##.csv_** and submit the submission file to Zindi platform.
+
+
+
 
 ## 🌴<span style='color:green'> Repository structure (tree😎)</span>
 
@@ -35,7 +42,11 @@ This solution will help Expresso to better serve their customers by understandin
 |----SUBMISSIONS  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- << **_Submission_file_after_execution_of_notebook.csv_**>> 
 |\
+|---- .gitignore  \
 |---- Readme.md  
+
+
+
 
 ## 🏆<span style='color:green'> Final Leaderbord </span>
 
@@ -43,6 +54,9 @@ This solution will help Expresso to better serve their customers by understandin
  🏅**Score**: 0.250550624111933 (LogLoss) 
 
 [See the leaderboard](https://zindi.africa/hackathons/umojahack-senegal-challenge-expresso-sur-la-prediction-dattrition-des-clients-churn/leaderboard)
+
+
+
 
 ## 💻<span style='color:green'> Author & Contributors </span>
 
@@ -54,8 +68,10 @@ This solution will help Expresso to better serve their customers by understandin
 |Muhamed TUO     |[@Nazario😁](https://zindi.africa/users/Muhamed_Tuo)  |[@NazarioR9](https://github.com/NazarioR9)|
 | Cédric MANOUAN |[@Zeus😆](https://zindi.africa/users/I_am_Zeus_AI)        |[@dric2018](https://github.com/dric2018)  |
 
-
 </div>
+
+
+
 
 ## 👨🏽‍🎓🚀💻<span style='color:green'> Acknowledgments </span>
 
@@ -64,6 +80,8 @@ This solution will help Expresso to better serve their customers by understandin
 
 [ **Dakar Institute of Technology - DIT** ]( https://dit.sn/ )
 </div>
+
+
 
 
 ## 📜<span style='color:green'> Licence </span>
