@@ -60,16 +60,15 @@ This solution will help Expresso to better serve their customers by understandin
 
 
 
-## 💻<span style='color:green'> Author & Contributors </span>
+## 💻<span style='color:green'> Authors & Contributors </span>
 
 <div align='center'>
 
 | Name           |                     Zindi ID                     |                  Github ID               |
 |----------------|--------------------------------------------------|------------------------------------------|
-|Emmanuel KOUPOH |[@eaedk😂](https://zindi.africa/users/eaedk)      |[@eaedk](https://github.com/eaedk)        |
 |Muhamed TUO     |[@Nazario😁](https://zindi.africa/users/Muhamed_Tuo)  |[@NazarioR9](https://github.com/NazarioR9)|
 | Cédric MANOUAN |[@Zeus😆](https://zindi.africa/users/I_am_Zeus_AI)        |[@dric2018](https://github.com/dric2018)  |
-
+|Emmanuel KOUPOH |[@eaedk😂](https://zindi.africa/users/eaedk)      |[@eaedk](https://github.com/eaedk)        |
 </div>
 
 
