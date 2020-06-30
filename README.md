@@ -15,13 +15,13 @@ This is a temporary repository of UmojaHack Expresso code for validation by Zind
 
 |----DATASET  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- CSV  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- << put_all_CSV_files_provided_for_challenge >> \
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- << **Put all CSV files provided for challenge here** >> \
 | \
 |----NOTEBOOKS  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- cat_starter_customer_churn.ipynb  
 |\
 |----SUBMISSIONS  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- << Submission_file_after_execution_of_notebook>>.csv  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- << **_Submission_file_after_execution_of_notebook.csv_**>> 
 |\
 |---- Readme.md  
 
@@ -31,6 +31,7 @@ This is a temporary repository of UmojaHack Expresso code for validation by Zind
  🏅**Score**: 0.250550624111933 (LogLoss) 
 
 [See the leaderboard](https://zindi.africa/hackathons/umojahack-senegal-challenge-expresso-sur-la-prediction-dattrition-des-clients-churn/leaderboard)
+
 ## 💻<span style='color:green'> Author & Contributors </span>
 
 <div align='center'>
@@ -42,6 +43,14 @@ This is a temporary repository of UmojaHack Expresso code for validation by Zind
 | Cédric MANOUAN |[@Zeus😆](https://zindi.africa/users/I_am_Zeus_AI)        |[@dric2018](https://github.com/dric2018)  |
 
 
+</div>
+
+## 👨🏽‍🎓🚀💻<span style='color:green'> Acknowledgments </span>
+
+<div align='center'>
+<img src="https://dit.sn/wp-content/uploads/2019/03/Logo.png" alt="Dakar Institute of Technology" id="logo" data-height-percentage="90" data-actual-width="320" data-actual-height="91">
+
+[Dakar Institute of Technology - DIT]( https://dit.sn/ )
 </div>
 
 ```
