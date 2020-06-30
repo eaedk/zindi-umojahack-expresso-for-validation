@@ -50,14 +50,17 @@ This is a temporary repository of UmojaHack Expresso code for validation by Zind
 <div align='center'>
 <img src="https://dit.sn/wp-content/uploads/2019/03/Logo.png" alt="Dakar Institute of Technology" id="logo" data-height-percentage="90" data-actual-width="320" data-actual-height="91">
 
-[Dakar Institute of Technology - DIT]( https://dit.sn/ )
+[ **Dakar Institute of Technology - DIT** ]( https://dit.sn/ )
 </div>
+
+
+## 📜<span style='color:green'> Licence </span>
 
 ```
 MIT License
 
 <<<<<<< HEAD
-Copyright (c) 2020 TheCIA.
+Copyright (c) 2020 Emmanuel KOUPOH for TheCIA team.
 =======
 ## Final Leaderboard
 >>>>>>> 23c9dbce4e880024d23d8a776913ea4b51727263
