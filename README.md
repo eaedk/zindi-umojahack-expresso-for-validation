@@ -24,7 +24,7 @@ This solution will help Expresso to better serve their customers by understandin
 
 2. Go into folder **NOTEBOOKS/** and execute all cells of the notebook **_cat_starter_customer_churn.ipynb_** ;
 
-3. Go into folder **SUBMISSIONS/**, get the created submission file **_##.csv_** and submit the submission file to Zindi platform.
+3. Go into folder **SUBMISSIONS/**, get the created submission file **__vanilla_cat_no_fillna_seed=xxx_n-sfk=zzz_score=yyy_.csv_** and submit the submission file to Zindi platform.
 
 
 
@@ -37,10 +37,10 @@ This solution will help Expresso to better serve their customers by understandin
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- << **Put all CSV files provided for challenge here** >> \
 | \
 |----NOTEBOOKS  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- cat_starter_customer_churn.ipynb  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- **_cat_starter_customer_churn.ipynb_**  
 |\
 |----SUBMISSIONS  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- << **_Submission_file_after_execution_of_notebook.csv_**>> 
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- << **__vanilla_cat_no_fillna_seed=xxx_n-sfk=zzz_score=yyy_.csv_** >> 
 |\
 |---- .gitignore  \
 |---- Readme.md  
