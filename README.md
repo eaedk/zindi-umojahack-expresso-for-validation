@@ -40,7 +40,7 @@ This solution will help Expresso to better serve their customers by understandin
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- **_cat_starter_customer_churn.ipynb_**  
 |\
 |----SUBMISSIONS  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- << **__vanilla_cat_no_fillna_seed=xxx_n-sfk=zzz_score=yyy_.csv_** >> 
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- << **__vanilla_cat_no_fillna_seed=xxx_n-sfk=zzz_score=yyy_.csv_** >> \
 |\
 |---- .gitignore  \
 |---- Readme.md  
